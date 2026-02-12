@@ -1,11 +1,10 @@
 ---
 name: conditioning-inquiry
-description: Examine automatic patterns of conditioning through observation rather
-  than effort to change - revealing how the very desire to change is itself conditioning.
+description: Examine automatic patterns of conditioning through observation rather than effort to change - revealing how the very desire to change is itself conditioning.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - conditioning-inquiry
 - transformation
