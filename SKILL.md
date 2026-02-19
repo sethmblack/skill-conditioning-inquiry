@@ -3,8 +3,9 @@ name: conditioning-inquiry
 description: Examine automatic patterns of conditioning through observation rather than effort to change - revealing how the very desire to change is itself conditioning.
 license: MIT
 metadata:
+  version: 1.0.3649
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - conditioning-inquiry
 - transformation
